@@ -30,9 +30,7 @@ body {
     background-color: rgb(255, 255, 255);
     margin-top: 100px;
     height: 250px;
-    border: rgb(221, 218, 218) 1px solid;
-    border-radius: 20px;
-    box-shadow: 2.5px 1px #c5c5c5;
+    /*box-shadow: 2.5px 1px #c5c5c5;*/
 }
 
 .controlers {
